@@ -1,2 +1,0 @@
-# anduashop
-NextJs Project
